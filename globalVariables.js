@@ -1,4 +1,5 @@
 let currentScreen = 'initialScreen'
+let player = 2
 
 //preload
 let images, sounds, musics

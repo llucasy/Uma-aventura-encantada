@@ -5,7 +5,7 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(windowWidth, windowHeight)
+    cnv = createCanvas(windowWidth, windowHeight)
     screens = {
         initialScreen,
         gameScreen
