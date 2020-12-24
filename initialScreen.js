@@ -24,7 +24,7 @@ function initialScreen () {
         textSize(50)
         text('Uma aventura', width / 2, height / 8.9)
         textSize(150)
-        text('Encatada', width / 2, height / 3.7)
+        text('Encantada', width / 2, height / 3.7)
         textSize(30)
         text('Era uma vez um lugar mágico, onde todos viviam felizes.', width / 2, height / 2.7)
         text('Até os monstrinhos e zombies se rebelarem...', width / 2, height / 2.4)
